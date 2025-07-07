@@ -79,7 +79,7 @@ const Index = () => {
             <div className="relative">
               <div className="relative overflow-hidden rounded-2xl shadow-2xl">
                 <img
-                  src="/img/d987847f-68b7-457e-ac90-5e1ecb690280.jpg"
+                  src="/img/39fb4a45-28bd-4fbf-ade5-ea2a097bd4bd.jpg"
                   alt="Элегантный искусственный пруд"
                   className="w-full h-[400px] object-cover"
                 />
@@ -256,7 +256,7 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="group relative overflow-hidden rounded-xl">
               <img
-                src="/img/d987847f-68b7-457e-ac90-5e1ecb690280.jpg"
+                src="/img/39fb4a45-28bd-4fbf-ade5-ea2a097bd4bd.jpg"
                 alt="Декоративный пруд"
                 className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -271,7 +271,7 @@ const Index = () => {
             </div>
             <div className="group relative overflow-hidden rounded-xl">
               <img
-                src="/img/3706b679-b2db-4def-86b9-421cdb7fa5e6.jpg"
+                src="/img/51620622-976b-4d1c-b289-f92c22fb19c7.jpg"
                 alt="Ландшафтный дизайн"
                 className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -286,7 +286,7 @@ const Index = () => {
             </div>
             <div className="group relative overflow-hidden rounded-xl">
               <img
-                src="/img/1eb94e28-2ecf-405f-91bc-18637c27e77e.jpg"
+                src="/img/7d6507c5-c6f1-47d1-ac91-43ed2063ef3c.jpg"
                 alt="Строительные работы"
                 className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
               />
